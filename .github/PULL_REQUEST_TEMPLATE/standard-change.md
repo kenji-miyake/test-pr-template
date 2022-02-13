@@ -6,9 +6,9 @@
 
 <!-- Write the links related to this PR. -->
 
-## Test procedure
+## Tests performed
 
-<!-- Describe how you have tested this PR? -->
+<!-- Describe how you have tested this PR. -->
 
 ## Notes for reviewers
 
